@@ -1,0 +1,42 @@
+[
+  {
+    "model": "movies.ott",
+    "pk": 2,
+    "fields": {
+      "name": "Apple TV",
+      "logo_path": "/apple_"
+    }
+  },
+  {
+    "model": "movies.ott",
+    "pk": 3,
+    "fields": {
+      "name": "Google Play Movies",
+      "logo_path": "/google_"
+    }
+  },
+  {
+    "model": "movies.ott",
+    "pk": 8,
+    "fields": {
+      "name": "Netflix",
+      "logo_path": "/netflix_"
+    }
+  },
+  {
+    "model": "movies.ott",
+    "pk": 97,
+    "fields": {
+      "name": "Watcha",
+      "logo_path": "/youtube_"
+    }
+  },
+  {
+    "model": "movies.ott",
+    "pk": 337,
+    "fields": {
+      "name": "Disney Plus",
+      "logo_path": "/disney_"
+    }
+  }
+]

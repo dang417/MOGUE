@@ -1,0 +1,66 @@
+[
+  {
+    "model": "movies.collection",
+    "id": 1,
+    "fields": {
+      "title": "겨울에 보기 좋은 영화",
+      "thumbnail": "/겨울.jpg"
+    }
+  },
+  {
+    "model": "movies.collection",
+    "id": 0,
+    "fields": {
+      "title": "감성적인 분위기의 멜로영화",
+      "thumbnail": "/멜로.jpg"
+    }
+  },
+  {
+    "model": "movies.collection",
+    "id": 2,
+    "fields": {
+      "title": "재즈가 뭐라고 생각하세요?",
+      "thumbnail": "/재즈.jpg"
+    }
+  },
+  {
+    "model": "movies.collection",
+    "id": 3,
+    "fields": {
+      "title": "어느 별에서 왔니?",
+      "thumbnail": "/우주.jpg"
+    }
+  },
+  {
+    "model": "movies.collection",
+    "id": 4,
+    "fields": {
+      "title": "청춘의 향기가 솔솔",
+      "thumbnail": "/청춘.jpg"
+    }
+  },
+  {
+    "model": "movies.collection",
+    "id": 5,
+    "fields": {
+      "title": "영화보다 더 영화같은 감독의 삶",
+      "thumbnail": "/감독.png"
+    }
+  },
+  {
+    "model": "movies.collection",
+    "id": 6,
+    "fields": {
+      "title": "이동진 평론가 만점 영화",
+      "thumbnail": "/캐롤.jpg"
+    }
+  },
+  {
+    "model": "movies.collection",
+    "id": 7,
+    "fields": {
+      "title": "너도 할 수 있어, 스타트업!",
+      "thumbnail": "/잡스.jpg"
+    }
+  }
+]
